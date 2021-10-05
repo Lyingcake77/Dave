@@ -1,0 +1,30 @@
+authentication with mind and body and maybe google if the other idea is too complicated{Done}
+create a mongo db for random stuff
+
+api options:
+--matching as user
+getDaveTEstimonial/pic ()
+    Dave doesnt like redos, theres no second chance with dave
+swipe on dave (daveTestimonialId, DaveSexyPicId, Result)
+    swiping no result in the app hard locking cause dave doesnt like you if you dont like Dave
+super like is a flipflop, but it does nothing. it may redirect you to walkmart for his flipflops. ORRR it redirects you nto dave lapps massages
+super like will be in php
+
+--matching as Dave
+GetDaveMatches()
+DaveSwipe(UserId, Result)
+
+--profile
+
+create account (add 1 photo becase developers are lazy, some stupid description, basuc info) basuc info {miles from dave, daves preferencews like fav color and such}
+get profile()
+
+no settings
+
+--chat settings (in Go)
+
+something something chat
+
+something something game show
+
+something something bracket
